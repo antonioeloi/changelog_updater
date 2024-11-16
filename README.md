@@ -23,7 +23,7 @@ While the core requirements and testing were human-driven, the AI contributed si
 - Repository URL agnostic
 
 ## Demo
-![Demo](https://github.com/user-attachments/assets/eec36f0d-027f-4833-9501-044a0a1d26a9)
+https://github.com/user-attachments/assets/eec36f0d-027f-4833-9501-044a0a1d26a9
 
 **You can see a complete example of the changes this script produces in [Pull Request](https://github.com/antonioeloi/changelog_updater/pull/1) where I run the demo.**
 
