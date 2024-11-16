@@ -22,6 +22,11 @@ While the core requirements and testing were human-driven, the AI contributed si
 - Duplicate removal and version sorting
 - Repository URL agnostic
 
+## Demo
+![Demo](https://user-images.githubusercontent.com/36843709/changelog_updater/assets/demo.mp4)
+
+**You can see a complete example of the changes this script produces in [Pull Request](https://github.com/antonioeloi/changelog_updater/pull/1) where I run the demo.**
+
 ## Prerequisites
 
 - Python 3.x
