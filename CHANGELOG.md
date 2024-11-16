@@ -15,6 +15,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+## [7.1.3.3] - 2024-11-16
+
+### Added
+
+- Add demo with version updated - [#RAILS-2024](https://app.clickup.com/t/82723/RAILS-2024)
+
 ## [7.1.3.2] - 2024-02-13
 
 ### Fixed
@@ -68,7 +74,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Remove deprecated `rails/all` require - [#RAILS-4444](https://app.clickup.com/t/82723/RAILS-4444)
 
-[Unreleased]: https://github.com/rails/rails/compare/v7.1.3.2...HEAD
+[Unreleased]: https://github.com/rails/rails/compare/v7.1.3.3...HEAD
+[7.1.3.3]: https://github.com/rails/rails/-/tree/v7.1.3.3
 [7.1.3.2]: https://github.com/rails/rails/-/tree/v7.1.3.2
 [7.1.3.1]: https://github.com/rails/rails/-/tree/v7.1.3.1
 [7.1.3]: https://github.com/rails/rails/-/tree/v7.1.3
